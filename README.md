@@ -36,8 +36,6 @@ Use this if you want to modify the code or run it as a script.
   - `config.ps1` (Configuration File)
   - `kill_proxy.bat` (For forced termination)
 
-> **Note**: `server_manager.ps1` is now integrated into `proxy_server.ps1` and is no longer needed.
-
 ## 🚀 How to Use
 
 ### Method A: Run LlamaManager.exe (Easy)
@@ -102,8 +100,6 @@ Use this when the server does not shut down properly or the port remains occupie
 - **선택 파일**:
   - `config.ps1` (설정 파일)
   - `kill_proxy.bat` (강제 종료용)
-
-> **참고**: `server_manager.ps1`은 이제 `proxy_server.ps1`에 통합되어 더 이상 필요하지 않습니다.
 
 ## 🚀 사용 방법
 
